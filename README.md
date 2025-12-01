@@ -4,7 +4,7 @@
 ### Oiiii! Eu sou a ✨ *Lua* ✨
 
 #### Cursando Design Gráfico na [UniFatecie](https://unifatecie.edu.br/)
-#### Parcipante do programa [ADA - Elas + Tech](https://ada.tech/oportunidades/elas-mais-tech)
+#### Participante do programa [ADA - Elas + Tech](https://ada.tech/oportunidades/elas-mais-tech)
 
 ### O que eu sei?
 <div>
